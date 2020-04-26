@@ -10,3 +10,7 @@ We needed a Flexible way to Compose Videos out of Many Sources and the Obs Inter
 # Use Cases
 Live Streaming with one or more sources that need individual control.
 
+
+# For Obs Interop
+- we use obs websocket
+  - https://github.com/Palakis/obs-websocket/releases/download/4.7.0/obs-websocket_4.7.0-1_amd64.deb
