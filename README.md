@@ -13,4 +13,5 @@ Live Streaming with one or more sources that need individual control.
 
 # For Obs Interop
 - we use obs websocket
+  - https://github.com/haganbmj/obs-websocket-js
   - https://github.com/Palakis/obs-websocket/releases/download/4.7.0/obs-websocket_4.7.0-1_amd64.deb
